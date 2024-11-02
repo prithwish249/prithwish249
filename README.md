@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Exciting animation" width="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm Prithwish Adhikari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -5,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwish249" alt="prithwish249" /></a> </p>
 
-- 🔭 I’m currently working on [Agritech-Insight](https://github.com/prithwish249/agritech_insight)
+- 🌟 I’m working on some exciting new projects! Check out my GitHub profile to see what I’m up to! 🚀✨
 
-- 🌱 I’m currently learning **Flutter, diving deep into ML**
+- 🌱 I’m currently learning **ML and AI**
 
-- 💬 Ask me about **react ,Node, Express, MongoDB, ML**
+- 💬 Ask me about **React ,Node, Express, MongoDB, ML**
 
 - 📫 How to reach me **prithwish9196@gmail.com**
 
