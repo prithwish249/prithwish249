@@ -12,7 +12,7 @@
 
 - 🌟 I’m working on some exciting new projects! Check out my GitHub profile to see what I’m up to! 🚀✨
 
-- 🌱 I’m currently learning **ML and AI**
+- 🤖 I’m currently learning **ML and AI**
 
 - 💬 Ask me about **React ,Node, Express, MongoDB, ML**
 
