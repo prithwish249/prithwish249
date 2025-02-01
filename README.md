@@ -12,9 +12,9 @@
 
 - 🌟 I’m working on some exciting new projects! Check out my GitHub profile to see what I’m up to! 🚀✨
 
-- 🤖 I’m currently learning **ML and AI**
+- 🤖 I’m currently learning **ML**
 
-- 💬 Ask me about **React ,Node, Express, MongoDB, ML**
+- 💬 Ask me about **React  ,Node, Express, MongoDB, ML**
 
 - 📫 How to reach me **prithwish9196@gmail.com**
 
