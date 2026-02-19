@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithwish249&label=Profile%20views&color=00b300&style=for-the-badge" alt="prithwish249" /> </p>
 
 - I'm working on some exciting new projects! Check out my GitHub profile to see what I'm up to!
-- I'm currently learning **Machine Learning**
+- I'm currently learning **ML**
 - Ask me about **React, Node, Express, MongoDB, Machine Learning**
 - How to reach me **prithwish9196@gmail.com**
 
